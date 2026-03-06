@@ -1,3 +1,4 @@
+  ![image alt](https://github.com/Soyluisda/Software_para_medicos/blob/751c46764f05d5decff0a06ce6aba9ea8c53aa76/1.jpg)
 # generador-historias-clinicas
 Proyecto de ejemplo mínimo para generar historias clínicas sin internet.
 
@@ -17,4 +18,4 @@ Proyecto de ejemplo mínimo para generar historias clínicas sin internet.
 7. se puede convertir en un archivo .exe y ejecutarse edesde cualquien pc
 8. si neceistas ayuda, me puedes escribir a mi instagram Soyluis_david
 
-![image alt]([image_url](https://github.com/Soyluisda/Software_para_medicos/blob/751c46764f05d5decff0a06ce6aba9ea8c53aa76/1.jpg))
+
