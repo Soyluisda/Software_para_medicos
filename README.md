@@ -16,3 +16,5 @@ Proyecto de ejemplo mínimo para generar historias clínicas sin internet.
 6. asegurate de poner el nombre del dcotor o medico y su repectico registro medico en cada pante del codigo donde lo piden
 7. se puede convertir en un archivo .exe y ejecutarse edesde cualquien pc
 8. si neceistas ayuda, me puedes escribir a mi instagram Soyluis_david
+
+![image alt]([image_url](https://github.com/Soyluisda/Software_para_medicos/blob/751c46764f05d5decff0a06ce6aba9ea8c53aa76/1.jpg))
